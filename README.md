@@ -13,6 +13,7 @@ The following questions are central to the project:
 
 ## Findings and Insights
 
+![Uploading Power BI Sales Dashboard..JPG…]()
 
 
 Based on the analysis:
