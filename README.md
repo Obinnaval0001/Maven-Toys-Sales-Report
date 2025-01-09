@@ -13,7 +13,8 @@ The following questions are central to the project:
 
 ## Findings and Insights
 
-![Power BI Sales Dashboard](https://github.com/user-attachments/assets/feb2e4d1-2dcd-46e4-be3a-5e5edee5398e)
+![Capture](https://github.com/user-attachments/assets/63e976b2-d87b-4683-8e95-2d4a5068514c)
+
 
 Based on the analysis:
 
