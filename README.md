@@ -16,7 +16,7 @@ The following questions are central to the project:
 ![Capture](https://github.com/user-attachments/assets/63e976b2-d87b-4683-8e95-2d4a5068514c)
 
 
-Based on the analysis:
+Based on the above analysis:
 
 ###  Revenue and Profit Trends:
 
