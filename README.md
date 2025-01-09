@@ -13,8 +13,7 @@ The following questions are central to the project:
 
 ## Findings and Insights
 
-![Uploading Power BI Sales Dashboard..JPG…]()
-
+![Power BI Sales Dashboard](https://github.com/user-attachments/assets/feb2e4d1-2dcd-46e4-be3a-5e5edee5398e)
 
 Based on the analysis:
 
