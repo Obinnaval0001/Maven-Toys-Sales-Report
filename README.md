@@ -11,6 +11,10 @@ The following questions are central to the project:
 3. Where are sales being lost, and how much potential revenue is at risk?
 4. How does inventory management affect sales and revenue, and what actions can mitigate potential losses?
 
+## Dataset
+The data for this project is sourced from the maven analytics data-playground:
+* [Download File](https://maven-datasets.s3.amazonaws.com/Maven+Toys/Maven+Toys.zip)
+
 ## Findings and Insights
 
 ![Capture](https://github.com/user-attachments/assets/63e976b2-d87b-4683-8e95-2d4a5068514c)
