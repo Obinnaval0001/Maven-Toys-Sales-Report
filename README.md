@@ -54,7 +54,7 @@ To address the challenges and capitalize on opportunities:
 * Invest in marketing and promotions for Downtown stores, as they yield the highest profit.
 * Expand product offerings in the Toys and Electronics categories, which have proven most profitable.
 
-### Mitigate Sales Losses:
+### Reduce Sales Losses:
 
 * Use data analytics to monitor stock levels in real time and trigger alerts for restocking.
 * Train store staff to upsell substitute products when primary items are out of stock.
