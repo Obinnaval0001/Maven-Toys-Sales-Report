@@ -12,12 +12,13 @@ The following questions are central to the project:
 4. How does inventory management affect sales and revenue, and what actions can mitigate potential losses?
 
 ## Dataset
-The data for this project is sourced from the maven analytics data-playground:
+The data for this project is sourced from the Maven analytics data playground:
 * [Download File](https://maven-datasets.s3.amazonaws.com/Maven+Toys/Maven+Toys.zip)
 
 ## Findings and Insights
 
-![Capture](https://github.com/user-attachments/assets/63e976b2-d87b-4683-8e95-2d4a5068514c)
+![Capture](https://github.com/user-attachments/assets/c6080937-d061-491d-bdc4-fca5dd9a72b2)
+
 
 
 Based on the above analysis:
@@ -30,7 +31,7 @@ Based on the above analysis:
 ### Profit by Product Category and Location:
 
 * Downtown locations contribute the highest profits, especially for Toys ($630K) and Electronics ($502K).
-* Categories like Art & Crafts and Games also perform well in downtown areas, but they show lower profit margins in residential and airport locations.
+* Categories like Arts & Crafts and Games also perform well in downtown areas, but they show lower profit margins in residential and airport locations.
 
 ### Sales Loss and Inventory Issues:
 
@@ -60,5 +61,5 @@ To address the challenges and capitalize on opportunities:
 
 ### Reduce Sales Losses:
 
-* Use data analytics to monitor stock levels in real time and trigger alerts for restocking.
+* Use data analytics to monitor real-time stock levels and trigger restocking alerts.
 * Train store staff to upsell substitute products when primary items are out of stock.
